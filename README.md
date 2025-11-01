@@ -5,7 +5,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/ai4smlab/Beverage-Distribution-Logistics?style=social)
 
 
-# Hybrid Clustering and Adaptive Metaheuristics for Capacitated Vehicle Routing
+# Hybrid Clustering and Adaptive Metaheuristics for Capacitated Vehicle Routing Problems: A Case Study in Beverage Distribution Logistics
 
 ## Authors  
 **Rahaf M. Alzahrani**, King Fahd University of Petroleum and Minerals (KFUPM)  
