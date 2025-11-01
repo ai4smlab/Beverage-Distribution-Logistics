@@ -33,9 +33,15 @@ The solution architecture is divided into two main phases:
      - **Metaheuristics**: Genetic Algorithm (GA), Simulated Annealing (SA), Ant Colony Optimization (ACO)
      - **Adaptive Metaheuristics**: GA and SA enhanced with **Deep Q-Networks (DQN)** for dynamic parameter control
 
-<p align="center">
-  <img src="figures/clustered-routing-diagram.png" alt="Clustering and Optimization Pipeline" width="600"/>
-</p>
+
+**Overivew**  
+<img src="images/Clustring.PNG" alt="overview" width="400px">
+
+**DQN-GA Procedure**  
+<img src="images/DQNGA.PNG" alt="DQN-GA Procedure" width="400px">
+
+**DQN-SA Procedure**  
+<img src="images/DQNSA.PNG" alt="DQN-SA Procedure" width="400px">
 
 
 
@@ -48,7 +54,7 @@ The project used real delivery data from 58 customers across Jeddah, including:
 - Geolocation data
 
 <p align="center">
-  <img src="figures/route-visualization.png" alt="Optimized Routes using GA" width="600"/>
+  <img src="images/GA_RoutingVis.PNG" alt="Optimized Routes using GA" width="600"/>
   <br>
   <em>Figure: Final GA-based routing solution visualized on the city map.</em>
 </p>
@@ -83,6 +89,8 @@ All data was preprocessed and normalized to fit a fixed vehicle capacity for CVR
 
 
 ## 💻 Code & Reproducibility
+
+[📥 Download `Beverage_Distribution_Logistics.ipynb`](Beverage_Distribution_Logistics.ipynb)
 
 ## 🔖 Citation
 
