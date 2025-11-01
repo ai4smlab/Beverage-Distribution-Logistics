@@ -10,7 +10,7 @@
 ## Authors  
 **Rahaf M. Alzahrani**, King Fahd University of Petroleum and Minerals (KFUPM)  
 **Zead Saleh**, University of Business and Technology (UBT)  
-**Alaa Khamis**, KFUPM – AI for Smart Mobility Lab  
+**Alaa Khamis**, AI for Smart Mobility Lab  at KFUPM
 
 
 ## 🧭 Project Overview
