@@ -12,13 +12,12 @@
 **Zead Saleh**, University of Business and Technology (UBT)  
 **Alaa Khamis**, KFUPM – AI for Smart Mobility Lab  
 
----
 
 ## 🧭 Project Overview
 
 This project addresses the **Capacitated Vehicle Routing Problem (CVRP)** in real-world logistics using an integrated hybrid optimization framework. The proposed system combines **clustering-based spatial decomposition** with **metaheuristic algorithms** and **reinforcement learning**, validated using operational data from a leading beverage distributor in Saudi Arabia.
 
----
+
 
 ## 🧠 Methodology Summary
 
@@ -38,7 +37,7 @@ The solution architecture is divided into two main phases:
   <img src="figures/clustered-routing-diagram.png" alt="Clustering and Optimization Pipeline" width="600"/>
 </p>
 
----
+
 
 ## 🗺️ Sample Results
 
@@ -54,7 +53,7 @@ The project used real delivery data from 58 customers across Jeddah, including:
   <em>Figure: Final GA-based routing solution visualized on the city map.</em>
 </p>
 
----
+
 
 ## 📊 Comparative Performance Table
 
@@ -68,7 +67,7 @@ The project used real delivery data from 58 customers across Jeddah, including:
 | Two-phase K-Means            | 970.90                 | 20             |
 | Two-phase C-Means            | 979.50                 | 20             |
 
----
+
 
 ## ⚙️ Data Description
 
@@ -81,7 +80,7 @@ The dataset includes:
 
 All data was preprocessed and normalized to fit a fixed vehicle capacity for CVRP modeling.
 
----
+
 
 ## 💻 Code & Reproducibility
 
