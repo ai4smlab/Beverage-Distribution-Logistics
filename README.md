@@ -53,8 +53,8 @@ The project used real delivery data from 58 customers across Jeddah, including:
 - Truck pallet capacities
 - Geolocation data
 
-<p align="center">
-  <img src="images/GA_RoutingVis.PNG" alt="Optimized Routes using GA" width="600"/>
+<p>
+  <img src="images/GA_RoutingVis.PNG" alt="Optimized Routes using GA" width="400"/>
   <br>
   <em>Figure: Final GA-based routing solution visualized on the city map.</em>
 </p>
