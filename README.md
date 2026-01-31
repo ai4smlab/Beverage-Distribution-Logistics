@@ -87,10 +87,10 @@ The dataset includes:
 All data was preprocessed and normalized to fit a fixed vehicle capacity for CVRP modeling.
 
 
-
+<!-- 
 ## 💻 Code & Reproducibility
 
-[📥 Download `Beverage_Distribution_Logistics.ipynb`](Beverage_Distribution_Logistics.ipynb)
+[📥 Download `Beverage_Distribution_Logistics.ipynb`](Beverage_Distribution_Logistics.ipynb) -->
 
 ## 🔖 Citation
 
@@ -98,14 +98,14 @@ If you use this framework or datasets, please cite:
 
 Plain text (IEEE style):
 
-Alzahrani, Rahaf M. and Saleh, Zead and Khamis, Alaa, "Hybrid Clustering and Adaptive Metaheuristics for Capacitated Vehicle Routing Problems: A Case Study in Beverage Distribution Logistics," submitted to 2026 IEEE International Conference on Smart Mobility.
+Alzahrani, Rahaf M. and Saleh, Zead and Khamis, Alaa, "Hybrid Clustering and Adaptive Metaheuristics for Capacitated Vehicle Routing Problems: A Case Study in Beverage Distribution Logistics," The 2026 International Conference on Smart Mobility and Logistics Ecosystems (SMiLE).
 
 BibTeX:
 ```
 @article{Alzahrani2026,
   title   = {Hybrid Clustering and Adaptive Metaheuristics for Capacitated Vehicle Routing Problems: A Case Study in Beverage Distribution Logistic},
   author  = {Alzahrani, Rahaf M. and Saleh, Zead and Khamis, Alaa},
-  journal = {Submitted to  2026 International Conference on Smart Mobility and Logistics Ecosystems (SMiLE)},
+  journal = {The 2026 International Conference on Smart Mobility and Logistics Ecosystems (SMiLE)},
   year    = {2026}
 }
 ```
